@@ -1,0 +1,27 @@
+.people-main-container{
+    display: flex;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid lightgray;
+}
+.people-image{
+    width: 300px;
+    height: 300px;
+    margin-right: 30px;
+}
+.people-name{
+    color: blue;
+    font-weight: 700;
+}
+.payment-button{
+    background-color: green;
+    color: white;
+    height: 30px;
+    width: 120px;
+    border: 1px solid gray;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.payment-button:hover{
+    background-color: tomato;
+}

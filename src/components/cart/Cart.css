@@ -1,0 +1,15 @@
+.title{
+    color: white;
+    background-color: tomato;
+    text-align: center;
+    line-height: 30px;
+}
+.totalFriend, .totalSalary{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    color: white;
+    border-radius: 3px ;
+    padding: 5px;   
+}
+
