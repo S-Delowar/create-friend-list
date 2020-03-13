@@ -16,9 +16,9 @@ const People = (props) => {
             <div className='people-details'>
                 <h3 className='people-name'>{name} </h3>
                 <p><small>Email: {email}</small></p>
-                <p><small>Phone: {phone} </small></p>
+             
                 <p><small>Address: {address.street}, {address.city}</small></p>
-                <p>Salary: ${salary} </p>
+                <p>Salary(yearly): ${salary} </p>
                 <button 
                 className='payment-button'
                 onClick ={()=> props.handleAddFriend(props.user)}

@@ -5,11 +5,13 @@
     width: 65%;
     margin: 5px 20px;
     border-right: 1px solid lightgray;
+    padding-left: 100px;
 
 }
 .friendList-container{
     width: 300px;
     border: 1px solid lightgray;
     padding: 10px;
+    margin-right: 100px;
     
 }

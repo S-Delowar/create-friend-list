@@ -5,9 +5,9 @@
     border-bottom: 1px solid lightgray;
 }
 .people-image{
-    width: 300px;
-    height: 300px;
+   
     margin-right: 30px;
+    padding-top: 20px;
 }
 .people-name{
     color: blue;
